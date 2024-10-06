@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\connectstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\connectstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\datagridviewdiemsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\datagridviewdiemsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\loadthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\loadthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|c:\\users\\nguye\\doanqldsv1\\winform-master\\btl\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\ds_diem_loptc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\ds_diem_loptc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\ds_sv_lophc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\ds_sv_lophc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\btl\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10CF3ACD-1EDD-49F0-8E4F-B42D18E16952}|BTL\\BTL.csproj|solutionrelative:btl\\baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\FormMain.cs",
+              "RelativeDocumentMoniker": "BTL\\FormMain.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\FormMain.cs",
+              "RelativeToolTip": "BTL\\FormMain.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwGoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:56:01.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectString.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\ConnectString.cs",
+              "RelativeDocumentMoniker": "BTL\\ConnectString.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\ConnectString.cs",
+              "RelativeToolTip": "BTL\\ConnectString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:04:36.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DS_SV_LopHC.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\DS_SV_LopHC.cs",
+              "RelativeDocumentMoniker": "BTL\\DS_SV_LopHC.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\DS_SV_LopHC.cs",
+              "RelativeToolTip": "BTL\\DS_SV_LopHC.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:07:46.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\login.cs",
+              "RelativeDocumentMoniker": "BTL\\login.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\login.cs [Design]",
+              "RelativeToolTip": "BTL\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:55:09.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\FormMain.cs",
+              "RelativeDocumentMoniker": "BTL\\FormMain.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\FormMain.cs [Design]",
+              "RelativeToolTip": "BTL\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:55:57.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DS_DIEM_LopTC.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\DS_DIEM_LopTC.cs",
+              "RelativeDocumentMoniker": "BTL\\DS_DIEM_LopTC.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\DS_DIEM_LopTC.cs",
+              "RelativeToolTip": "BTL\\DS_DIEM_LopTC.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwOQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:09:33.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\Program.cs",
+              "RelativeDocumentMoniker": "BTL\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\Program.cs",
+              "RelativeToolTip": "BTL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:54:28.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "loading.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\loading.cs",
+              "RelativeDocumentMoniker": "BTL\\loading.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\loading.cs",
+              "RelativeToolTip": "BTL\\loading.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:03:55.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\login.cs",
+              "RelativeDocumentMoniker": "BTL\\login.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\login.cs",
+              "RelativeToolTip": "BTL\\login.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAQwFcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:55:10.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataGridviewDiemSort.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\DataGridviewDiemSort.cs",
+              "RelativeDocumentMoniker": "BTL\\DataGridviewDiemSort.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\DataGridviewDiemSort.cs",
+              "RelativeToolTip": "BTL\\DataGridviewDiemSort.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:07:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\loading.cs",
+              "RelativeDocumentMoniker": "BTL\\loading.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\loading.cs [Design]",
+              "RelativeToolTip": "BTL\\loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:54:20.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loadthu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\loadthu.cs",
+              "RelativeDocumentMoniker": "BTL\\loadthu.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\loadthu.cs [Design]",
+              "RelativeToolTip": "BTL\\loadthu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:54:18.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "baocao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\baocao.cs",
+              "RelativeDocumentMoniker": "BTL\\baocao.cs",
+              "ToolTip": "C:\\Users\\nguye\\DoAnQLDSV1\\winform-master\\BTL\\baocao.cs [Design]",
+              "RelativeToolTip": "BTL\\baocao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:54:07.473Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
