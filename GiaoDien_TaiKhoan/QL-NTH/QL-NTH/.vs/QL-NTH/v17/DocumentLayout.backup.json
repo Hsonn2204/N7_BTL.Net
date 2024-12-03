@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\thongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\tailieuweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\tailieuweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\tailieuweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\tailieuweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\tailieuqt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\tailieuqt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\tailieuqt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\tailieuqt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\quenmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\quenmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\qtdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\qtdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|c:\\nop_btl_thaylap\\ql-nth\\ql-nth\\ql-nth\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\ql-nth\\qlnthdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{B65CA172-6BE9-4233-A5F0-839AB84635D6}|QL-NTH\\QL-NTH.csproj|solutionrelative:ql-nth\\qlnthdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThongBao.cs",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\ThongBao.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\ThongBao.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\ThongBao.cs",
+              "RelativeToolTip": "QL-NTH\\ThongBao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:38:10.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThongBao.cs [Design]",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\ThongBao.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\ThongBao.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\ThongBao.cs [Design]",
+              "RelativeToolTip": "QL-NTH\\ThongBao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:38:09.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TailieuWeb.cs",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\TailieuWeb.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\TailieuWeb.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\TailieuWeb.cs",
+              "RelativeToolTip": "QL-NTH\\TailieuWeb.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:37:23.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TailieuWeb.cs [Design]",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\TailieuWeb.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\TailieuWeb.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\TailieuWeb.cs [Design]",
+              "RelativeToolTip": "QL-NTH\\TailieuWeb.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:36:24.358Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TailieuQT.cs",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\TailieuQT.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\TailieuQT.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\TailieuQT.cs",
+              "RelativeToolTip": "QL-NTH\\TailieuQT.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:35:54.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TailieuQT.cs [Design]",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\TailieuQT.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\TailieuQT.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\TailieuQT.cs [Design]",
+              "RelativeToolTip": "QL-NTH\\TailieuQT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:35:52.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanTri.cs [Design]",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\QuanTri.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\QuanTri.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\QuanTri.cs [Design]",
+              "RelativeToolTip": "QL-NTH\\QuanTri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:35:52.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuenMK.cs [Design]",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\QuenMK.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\QuenMK.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\QuenMK.cs [Design]",
+              "RelativeToolTip": "QL-NTH\\QuenMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:35:50.919Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QTDD.cs [Design]",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\QTDD.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\QTDD.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\QTDD.cs [Design]",
+              "RelativeToolTip": "QL-NTH\\QTDD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:35:48.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lienhe.cs [Design]",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\Lienhe.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\Lienhe.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\Lienhe.cs [Design]",
+              "RelativeToolTip": "QL-NTH\\Lienhe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:30:10.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Giaodien.cs [Design]",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\Giaodien.cs",
+              "RelativeDocumentMoniker": "QL-NTH\\Giaodien.cs",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\Giaodien.cs [Design]",
+              "RelativeToolTip": "QL-NTH\\Giaodien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:30:08.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QLNTHDataSet.xsd",
+              "DocumentMoniker": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\QLNTHDataSet.xsd",
+              "RelativeDocumentMoniker": "QL-NTH\\QLNTHDataSet.xsd",
+              "ToolTip": "C:\\NOP_BTL_Thaylap\\QL-NTH\\QL-NTH\\QL-NTH\\QLNTHDataSet.xsd",
+              "RelativeToolTip": "QL-NTH\\QLNTHDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-12T15:52:29.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

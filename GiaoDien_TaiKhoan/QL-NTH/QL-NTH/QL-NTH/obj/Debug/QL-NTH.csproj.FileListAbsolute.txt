@@ -1,0 +1,522 @@
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.AssemblyReference.cache
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangKi.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Giaodien.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Properties.Resources.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.GenerateResource.cache
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.CoreCompileInputs.cache
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe.config
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\QL-NTH.pdb
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.exe
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.pdb
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangkiNhom.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Dangnhap.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Lienhe.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Note.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTCD.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTDD.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTTK.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuanTri.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuenMK.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThongBao.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Interop.WMPLib.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\AxInterop.WMPLib.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\Interop.WMPLib.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\AxInterop.WMPLib.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.ResolveComReference.cache
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Baocao.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\EnvDTE.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\stdole.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.MSXML.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.CopyComplete
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\bin\Debug\Report1.rdlc
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\RdlCompile.cache
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\RdlCompile.compiled
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.AssemblyReference.cache
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\Interop.WMPLib.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\AxInterop.WMPLib.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.ResolveComReference.cache
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Baocao.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangKi.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangkiNhom.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Dangnhap.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Giaodien.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Lienhe.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Note.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Properties.Resources.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTCD.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTDD.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTTK.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuanTri.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuenMK.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThongBao.resources
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.GenerateResource.cache
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\RdlCompile.cache
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\RdlCompile.compiled
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.CoreCompileInputs.cache
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.exe
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.pdb
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Report1.rdlc
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe.config
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\QL-NTH.pdb
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\EnvDTE.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\stdole.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.MSXML.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\Interop.WMPLib.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\bin\Debug\AxInterop.WMPLib.dll
+E:\HK1_nam_4\TT Lập trình .Net\BTL\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.CopyComplete
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuWeb.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuQT.resources
+D:\HK_1_4\TT .Net\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThaydoiMk.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Report1.rdlc
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe.config
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\QL-NTH.pdb
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\EnvDTE.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\stdole.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Microsoft.MSXML.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\Interop.WMPLib.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\bin\Debug\AxInterop.WMPLib.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.AssemblyReference.cache
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\Interop.WMPLib.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\AxInterop.WMPLib.dll
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.ResolveComReference.cache
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Baocao.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangKi.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangkiNhom.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Dangnhap.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuQT.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuWeb.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Giaodien.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Lienhe.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Note.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Properties.Resources.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTCD.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTDD.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTTK.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuanTri.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuenMK.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThaydoiMk.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThongBao.resources
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.GenerateResource.cache
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.CoreCompileInputs.cache
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.Up2Date
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.exe
+D:\Source By PhamVanTai\Source By PhamVanTai\C#\BTL\QL-NTH\QL-NTH\obj\Debug\QL-NTH.pdb
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Report1.rdlc
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe.config
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\QL-NTH.pdb
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\EnvDTE.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\stdole.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\AxInterop.WMPLib.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.AssemblyReference.cache
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\AxInterop.WMPLib.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.ResolveComReference.cache
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Baocao.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangKi.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangkiNhom.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Dangnhap.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuQT.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuWeb.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Giaodien.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Lienhe.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Note.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Properties.Resources.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTCD.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTDD.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTTK.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuanTri.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuenMK.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThaydoiMk.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThongBao.resources
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.GenerateResource.cache
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.CoreCompileInputs.cache
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.Up2Date
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.exe
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.pdb
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Interop.WMPLib.dll
+D:\baithiltnet\QL-NTH\QL-NTH\QL-NTH\obj\Debug\Interop.WMPLib.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Report1.rdlc
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe.config
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\QL-NTH.pdb
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\AxInterop.WMPLib.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Interop.WMPLib.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\EnvDTE.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\stdole.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.AssemblyReference.cache
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\Interop.WMPLib.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\AxInterop.WMPLib.dll
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.ResolveComReference.cache
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Baocao.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangKi.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangkiNhom.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Dangnhap.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuQT.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuWeb.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Giaodien.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Lienhe.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Note.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Properties.Resources.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTCD.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTDD.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTTK.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuanTri.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuenMK.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThaydoiMk.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThongBao.resources
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.GenerateResource.cache
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.CoreCompileInputs.cache
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.Up2Date
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.exe
+C:\Final_BTl\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.pdb
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe.config
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\QL-NTH.exe
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\QL-NTH.pdb
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\AxInterop.WMPLib.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Interop.WMPLib.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\EnvDTE.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\stdole.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.AssemblyReference.cache
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\Interop.WMPLib.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\AxInterop.WMPLib.dll
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.ResolveComReference.cache
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Baocao.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangKi.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.DangkiNhom.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Dangnhap.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuQT.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.TailieuWeb.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Giaodien.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Lienhe.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Note.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.Properties.Resources.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTCD.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTDD.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QTTK.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuanTri.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.QuenMK.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThaydoiMk.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL_NTH.ThongBao.resources
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.GenerateResource.cache
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.CoreCompileInputs.cache
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.csproj.Up2Date
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.exe
+C:\NOP_BTL_Thaylap\QL-NTH\QL-NTH\QL-NTH\obj\Debug\QL-NTH.pdb
